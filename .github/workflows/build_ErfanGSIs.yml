@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://03rasjfjq23dlh9tthsitl58k13bgt5d82c9bm9uv1qp2bli9jevu3ic.qc.dolfincdnx.net:44625/xdispatchb7fe21ca78f0523d/bigota.d.miui.com/22.7.13/miui_TUCANA_22.7.13_fa66264456_11.0.zip?BSLuBan=eyJob3N0IjoiYmlnb3RhLmQubWl1aS5jb20iLCJic3JlcWlkIjoiNTQ4OTZmOTAyODg5ZjE1N2VhN2Y1NThiODI5MTEyMzQiLCJjYWNoZV9rZXkiOiJcLzIyLjcuMTNcL21pdWlfVFVDQU5BXzIyLjcuMTNfZmE2NjI2NDQ1Nl8xMS4wLnppcCIsImRuc19ob3N0IjoicGYwMDMudi5ic2dzbGIuY24iLCJrZXkiOiJhMmZkZmQ5ZDU5YzhjMDFmMzk5OTlhNWEzYzU3OTlkNCIsInRzIjoxNjgxMzEyMTU0fQ==
-  ROM_NAME: MIUI
+  ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
